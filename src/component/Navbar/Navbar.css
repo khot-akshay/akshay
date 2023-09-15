@@ -1,0 +1,21 @@
+
+.img {
+  display: block;
+  margin-left: 120px;
+    
+    width: 50%;
+  }
+.dashboard{
+    font-size: large;
+    text-decoration: none;
+    
+}
+/* .toggel{
+
+} */
+.dropdown{
+  text-emphasis: none;
+  text-align: center;
+border-style: none;
+border-style: hidden;
+}
